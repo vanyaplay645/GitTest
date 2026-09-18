@@ -58,7 +58,7 @@
 
 ![логотип](https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg)
 
-[![клик по картнике]github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg](https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg)
+[![клик по картнике](68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3031362f3833332f3838302f6e6f6e5f32782f6769746875622d6c6f676f2d6769742d6875622d69636f6e2d776974682d746578742d6f6e2d77686.jpg "Подсказка")](https://static.vecteezy.com/system/resources/previews/016/833/880/non_2x/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg)
 
 Цитата
 -----------------
